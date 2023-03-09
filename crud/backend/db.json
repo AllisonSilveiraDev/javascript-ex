@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "name": "Allison Silveira",
+      "email": "allisonsilveiradev@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Allison Silveira Andrade",
+      "email": "allisonsilveiraandrade@hotmail.com",
+      "id": 2
+    }
+  ]
+}
